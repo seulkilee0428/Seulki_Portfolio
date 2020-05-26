@@ -2,7 +2,7 @@ body {
     color: #ffe2e2;
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -19,6 +19,15 @@ h2 {
     font-size: 2.5rem;
     font-weight: normal;
     padding-bottom: 10px;
+  }
+
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin: 10px 20px;
+    text-decoration: none;
+
   }
 
   .top-container {
@@ -57,4 +66,10 @@ h2 {
 
   .middle-container {
     margin: 100px 0;
+  }
+
+  .intro {
+    color: #ffc7c7;
+    font-family: 'Montserrat', sans-serif;
+
   }
